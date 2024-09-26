@@ -1,0 +1,10 @@
+/* Əlavə Stil Qaydaları */
+
+/* Iframe Stili */
+.full-screen-preview__frame {
+    height: 684px; /* Mövcud inline stili buraya əlavə edin */
+    /* Əlavə iframe stilləri varsa, onları da buraya əlavə edin */
+}
+
+/* Əlavə Stil Qaydaları */
+/* Əgər başqa inline stillər varsa, onları da bu fayla əlavə edin */
